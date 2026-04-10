@@ -57,7 +57,7 @@ Each topic is self-contained within its own folder, typically containing one or 
 ### Clone the Repository
 
 ```bash
-git clone https://github.com/vanix056/ML-DL-Projects-.git
+git clone https://github.com/MAbdullahWaqar/ML-DL-Projects-.git
 cd ML-DL-Projects-
 ```
 
@@ -349,9 +349,9 @@ This project is licensed under the [MIT License](https://opensource.org/licenses
 
 ## Author
 
-**Vanix056**
+**Muhammad Abdullah Waqar**
 
-- GitHub: [@vanix056](https://github.com/vanix056)
+- GitHub: [@MAbdullahWaqar](https://github.com/MAbdullahWaqar)
 
 ---
 
